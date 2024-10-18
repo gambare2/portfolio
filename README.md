@@ -1,2 +1,2 @@
 # Aryan_Singh
-This website is about Prince Aryan Singh. Who is currently pursuing B.Tech Degree in Dr. Bhimroa ambedkar University.
+This website is about me named "Prince Aryan Singh". I am currently pursuing B.E (C.S.E 3rd year)Degree in Dr. Bhimrao ambedkar University.
